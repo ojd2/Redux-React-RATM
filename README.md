@@ -1,4 +1,4 @@
-# RATM Album List Application built with React JS & Redux
+# RATM Album Application with React JS & Redux
 
 To run:
 
