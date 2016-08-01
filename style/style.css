@@ -1,0 +1,64 @@
+html {
+      border:30px double brown;
+      height:100%;
+}
+body{
+    background:#eee !important;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400 !important;
+    margin:0 auto;
+    padding:0 auto;
+    text-align: center;
+    height:100%;
+    font-weight: lighter !important;
+}
+h1 {
+    font-size:34px !important;
+    font-weight:lighter !important;
+}
+h2 {
+    font-size:22px !important;
+    font-weight:lighter !important;
+}
+h4, h5 {
+    font-size:18px !important;
+    font-weight:lighter !important;
+}
+.title {
+    margin:0 auto;
+    padding:50px 0px;
+    text-align: center;
+}
+.title h1 {
+    padding:0px 0px 5px 0px;
+    width:200px;
+    margin:0 auto;
+    display:block;
+    border-bottom:2px solid red;
+}
+.list-group-item {
+    cursor: pointer;
+}
+.list-group-item:hover {
+    background-color: #eee;
+}
+#details {
+    padding:50px 10px;
+}
+.artwork {
+    margin:20px;
+}
+.albumTitle {
+    font-size: 24px !important;
+    font-style: italic;
+    font-weight: 300 !important;
+}
+.footer {
+    font-size:12px;
+    font-weight:lighter !important;
+    text-align: center;
+    float:left;
+    margin:0 auto;
+    display: block;
+    position:relative;
+}
